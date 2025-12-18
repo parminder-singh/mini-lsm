@@ -1,6 +1,6 @@
 # 🛡️ The Rate Limiting Handbook
 
-**Context:** Traffic Engineering & Backend Systems (Netflix/High-Scale).
+**Context:** Traffic Engineering & Backend Systems
 
 ## Part I: The Algorithms (Single Node)
 *Mathematical logic used to decide "Yes/No" for a request on a single machine.*
